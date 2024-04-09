@@ -17,3 +17,6 @@ How to write readable test assertions for advanced tests?
 
 Chosen option: "Plain JUnit5", because it is a standard framework and the features of the other frameworks do not outweigh the drawbrack of adding a new dependency.
 
+## Realworld examples
+
+### Example 1: Something something
